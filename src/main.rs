@@ -8,7 +8,7 @@ fn main() {
     let area = area_of(width, height);
 
     println!("Area is {}", area);
-    
+
     println!("Volume is {}", volume(width, height, depth));
 }
 
